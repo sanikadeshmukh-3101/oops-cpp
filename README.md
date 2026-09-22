@@ -1,6 +1,6 @@
 # Object-Oriented Programming with C++ — Unit I: Basics of OOP
 
-**Student Name:** Devesh Manoj Nehete
+**Student Name:** Sanika Umesh Deshmukh
 **PRN:** [126UAD2008]
 **Class/Division:** S.Y. B.Tech. (Artificial Intelligence and Data Science) / Div. [F]
 **Course Name:** Object-Oriented Programming with C++ (ADPC303)
